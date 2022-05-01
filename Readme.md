@@ -20,3 +20,12 @@
   
  ##
   
+  <div><br>
+  <a href = "https://www.instagram.com/brunnohelfenberger/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href = "mailto: brunno.helfenberger@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <a href = "https://codepen.io/Helfen"><img src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+ <a href = "https://www.linkedin.com/in/brunnohelfenberger/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     
+   </div>
+      
+##
+  
